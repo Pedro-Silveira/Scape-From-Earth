@@ -1,4 +1,4 @@
-# SCAPE FROM EARTH: A Python + OpenGL Game
+# SCAPE FROM EARTH: Jogo 2D em PyOpenGL
 
 ![Tela real capturada em 08/10/2022.](https://i.imgur.com/hNQy2lQ.png)
 
